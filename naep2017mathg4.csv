@@ -1,0 +1,55 @@
+Jurisdiction,MN,SigDiff,SigSymbol,AB,AP
+Massachusetts,249,10,up,87,53
+Minnesota,249,10,up,86,53
+DoDEA,249,9,up,91,51
+Virginia,248,9,up,87,50
+New Jersey,248,9,up,87,50
+Wyoming,248,9,up,89,51
+Indiana,247,7,up,86,48
+Florida,246,7,up,88,48
+Nebraska,246,6,up,85,49
+New Hampshire,245,6,up,85,48
+North Dakota,244,5,up,85,46
+Iowa,243,4,up,83,46
+Utah,242,3,up,81,45
+Washington,242,3,same,80,42
+Pennsylvania,242,3,up,80,44
+South Dakota,242,2,up,83,43
+Kansas,241,2,same,82,42
+North Carolina,241,2,same,81,42
+Texas,241,2,same,82,41
+Ohio,241,2,same,81,41
+Vermont,241,2,up,81,42
+Montana,241,2,same,83,41
+Colorado,241,2,same,80,42
+Maryland,241,1,same,78,42
+Wisconsin,240,1,same,79,42
+Idaho,240,1,same,81,40
+Maine,240,1,same,81,40
+Missouri,240,#,same,79,40
+Connecticut,239,#,same,79,40
+Kentucky,239,#,same,80,40
+National public,239,?,,79,40
+Illinois,238,-1,same,76,39
+Hawaii,238,-1,same,79,38
+Rhode Island,238,-2,same,79,39
+Oklahoma,237,-2,same,80,35
+Tennessee,237,-2,down,77,36
+Georgia,236,-3,down,77,35
+Delaware,236,-3,down,77,36
+West Virginia,236,-3,down,78,35
+Michigan,236,-4,down,75,36
+New York,236,-4,down,76,35
+Mississippi,235,-4,down,77,31
+Arizona,234,-5,down,73,34
+South Carolina,234,-5,down,75,32
+Arkansas,234,-5,down,75,33
+Oregon,233,-6,down,73,33
+California,232,-7,down,71,31
+Alabama,232,-7,down,73,31
+Nevada,232,-7,down,73,31
+District of Columbia,231,-8,down,69,32
+Alaska,230,-9,down,71,32
+New Mexico,230,-9,down,69,27
+Louisiana,229,-10,down,71,27
+Puerto Rico,190,-50,down,15,#
